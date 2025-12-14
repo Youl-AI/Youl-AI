@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Youl-AI
+- 👋 Hi, I’m Youl
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python deep learning
 - 💞️ I’m looking to collaborate on DL company
